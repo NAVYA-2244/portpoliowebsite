@@ -1,0 +1,120 @@
+/* table{margin:30px ;} */
+body{ margin:10px;
+padding: 10px;}
+.first{background-color: rgb(247, 247, 88);
+    height: 500px;
+    padding-left: 60px;
+   }
+   #link{margin:50px 10px 50px 10px;}
+    #pri{
+        position: absolute;
+        left: 600x;
+        bottom: 400px;
+        margin-left: 1000px;
+        
+    }
+    #img1{
+        border-radius: 50px;
+        border: 5px solid whitesmoke;
+    }
+    #hed{text-align: center;}
+
+    #para{font-size: 30px;
+        width: 800px;
+       }
+   .r2{position: absolute;
+left: 1000px;
+top: 700px;
+border: 2px solid yellow;
+background-color: yellow;
+border-radius:70px ;
+font-size:150px;
+}   
+#txt4{margin-left: 850px;
+font-size:40px; ;}
+
+.r5{margin:2px 5px 70px 2px;
+    text-align: center;}
+
+.navya{
+    display: flex;
+    padding: 40px;
+    margin: 40px;
+    }
+
+.r6{display:flex;
+/* text-align: center;*/
+}
+
+.r8{text-align: center;
+    margin:90px 5px 60px 2px;}
+
+.c1{border:solid 2px black;
+    margin: 10px;
+    width:400px;
+border-radius:10px ;
+
+background-color: rgb(249, 245, 245);
+text-align: center;}
+
+.c1:hover{
+  
+    transform:scale(1.05);
+    transition: all 0.4s ease-out;
+    box-shadow: 0px 0px 5px black;
+    /* background-color: red; */
+}
+
+.r9{ display: flex;
+    padding: 20px;
+    }
+    .r10{
+        display: flex;
+        padding-left:60px;
+    }
+    .r11{display: flex;
+        padding-left: 60px;
+       }
+    .r12{display: flex;
+        padding-left:60px;
+        }
+.r15{text-align: center;
+margin-bottom: 50px;}
+.r16{text-align: center;
+    }
+    .r17{display: inline-block;
+    margin-left: 400px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-decoration: none;}
+
+    .r18{display: flex;}
+    #img2{margin-left: 400px;}
+    .r19{display: flex; background-color: rgb(210, 210, 31);}
+    #b1{margin-left: 60px;}
+    #b2{margin-left: 300px;}
+
+
+#img:hover{margin: 5px;
+transition: scale(5.1);}
+
+#bm{background-image:url('./images/img10.jpg');
+    height:400px;
+    
+    text-align:center;
+    
+    color: aliceblue;
+    margin: 70px 30px 40px 10px;}
+    #myCarousel{height: 400px;
+    padding: 50px;
+background-color: rgb(61, 63, 64);
+color: aliceblue;}
+
+    
+.r20{
+    display: flex; background-color:black;
+color: aliceblue;
+height: 200px;}
+#b3{margin-left: 60px;
+margin-top: 60px;}
+    #b4{margin-left: 300px;margin-top: 60px;}
